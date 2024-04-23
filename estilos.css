@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Raleway:ital,wght@0,100..900;1,100..900&family=Sedgwick+Ave+Display&family=Shantell+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+#miColor{
+    background-color: rgb(200, 200, 200);
+}
+p{
+    font-family: Raleway, ExtraLight;
+    font-weight: 400;
+    font-size: small;
+    a:link{
+    color: #000000;
+    }
+    margin-left: 25%;
+}
+p:hover {
+    text-transform: uppercase;
+} 
+a{
+    font-family: Raleway, ExtraLight;
+    font-weight: 400;
+    font-size: small;
+    a:link{
+    color: #000000;
+    }
+}
+a:hover {
+    text-transform: lowercase;
+}    
+ul{
+    font-family: Raleway, ExtraLight; 
+    font-weight: 400;
+    font-size: small;
+    a:link{
+    color: #000000;
+    }
+    margin-left: 25%;
+}
+h1{
+    text-align: center;
+    font-family: Permanent Marker;
+    font-weight: 1000;
+    color: #1FFF00 ;
+    font-size: xx-large;
+}
+h2{
+    text-align: center;
+    text-decoration: #1FFF00 underline;
+    font-weight: 600;
+    font-family: Raleway, Medium;
+    font-size: x-large;
+}
+img{
+    width: 10%;
+    margin: auto;
+    display: block;
+    border-radius: 70px;
+}
+h3{
+    text-decoration: #1FFF00 underline;
+    font-family: 600;
+    font-family: Raleway, Medium; 
+    font-size: large;
+    margin-left: 27%;
+    margin-right: 27%;
+}
+h4{
+    text-align: justify;
+    font-weight: 400;
+    font-family: Raleway, Regular;
+    font-size: medium;
+    margin-left: 27%;
+    margin-right: 27%;
+}
